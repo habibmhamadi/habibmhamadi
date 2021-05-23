@@ -6,3 +6,5 @@
 - 📫 How to reach me: habibmhamadi@gmail.com
 - ⚡ Subscribe to my youtube channel: [TheDeveloperMe](https://www.youtube.com/c/TheDeveloperMe)
 - 😄 Fun fact: Nobody is going to read this
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=habibmhamadi&show_icons=true&theme=dracula)
