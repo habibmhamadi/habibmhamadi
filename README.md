@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working as a software developer
-- 👯 I’m looking to collaborate on js projects
+- 👯 I’m looking to collaborate on Laravel/JavaScript/Python projects
 - 📫 How to reach me: habibmhamadi@gmail.com
 - ⚡ Subscribe to my youtube channel: [TheDeveloperMe](https://www.youtube.com/c/TheDeveloperMe)
 - 😄 Fun fact: Nobody is going to read this
