@@ -1,7 +1,7 @@
 ### Hi there, I am Habib Mhamadi doing web & mobile dev 👋
 
 
-- 🔭 I’m currently working as a software developer
+- 🔭 I’m currently working as Python developer on ERP projects.
 - 👯 I’m looking to collaborate on Laravel/JavaScript/Python projects
 - 📫 How to reach me: habibmhamadi@gmail.com
 - ⚡ Subscribe to my youtube channel: [TheDeveloperMe](https://www.youtube.com/c/TheDeveloperMe)
